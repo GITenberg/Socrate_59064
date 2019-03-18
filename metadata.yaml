@@ -1,0 +1,23 @@
+_repo: Socrate_59064
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Labriola, Antonio
+    birthdate: 1843
+    deathdate: 1904
+    gutenberg_agent_id: '35957'
+    url: http://www.gutenberg.org/2009/agents/35957
+    wikipedia: http://en.wikipedia.org/wiki/Antonio_Labriola
+description: ''
+gutenberg_issued: '2019-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59064'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Socrate
+url: http://www.gutenberg.org/ebooks/59064
